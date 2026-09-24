@@ -1,0 +1,27 @@
+﻿# .NET
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+all_logs.txt
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# OS
+.DS_Store
+Thumbs.db
